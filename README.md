@@ -19,3 +19,5 @@ Offers a fun and addictive gameplay experience that is suitable for all ages.
 ![image](https://user-images.githubusercontent.com/110716472/236644429-564495fe-7f84-4274-acf1-59d376b36c78.png)
 
 ![image](https://user-images.githubusercontent.com/110716472/236644469-9c36b148-4a08-4802-adc0-6768852830d5.png)
+
+![image](https://user-images.githubusercontent.com/110716472/236644741-def26b49-cc13-4f18-9612-84edf5d8c88e.png)
