@@ -1,6 +1,6 @@
 # SerpentEscape
  project was completed in March
- techstack - python,random libraries
+ techstack - Python,Random and Pygame library.
  
 A classic snake game implemented using the Pygame library.
 
